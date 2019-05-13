@@ -1,6 +1,6 @@
 # 微信小程序上传文件至阿里云
-```
 ###快速使用三部曲
+```
 1.在config文件配置阿里云
     let fileHost="http://frdscm.oss-cn-shenzhen.aliyuncs.com"
     let config = {
